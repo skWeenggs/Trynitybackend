@@ -27,7 +27,7 @@ let token;
 
 // const notion= new Client({ auth:process.env.NOTION_KEY});
 const domainTokenMap = [
-    { domain: 'trynitybackend.vercel.app', token: "secret_m2y4P8urzCeGta6DkVc28DpjjyLrAGBvISvlKxDgOqU" },
+    { domain: 'tynigone.netlify.app', token: "secret_m2y4P8urzCeGta6DkVc28DpjjyLrAGBvISvlKxDgOqU" },
     
     // add more domain-token mappings as needed
   ];
