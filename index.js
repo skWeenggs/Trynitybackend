@@ -28,6 +28,7 @@ let token;
 // const notion= new Client({ auth:process.env.NOTION_KEY});
 const domainTokenMap = [
     { domain: 'tynigone.netlify.app', token: "secret_m2y4P8urzCeGta6DkVc28DpjjyLrAGBvISvlKxDgOqU" },
+    { domain: 'localhost', token: "secret_m2y4P8urzCeGta6DkVc28DpjjyLrAGBvISvlKxDgOqU" },
     
     // add more domain-token mappings as needed
   ];
