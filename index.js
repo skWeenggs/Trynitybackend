@@ -29,7 +29,7 @@ let token;
 const domainTokenMap = [
     { domain: 'localhost', token: "secret_m2y4P8urzCeGta6DkVc28DpjjyLrAGBvISvlKxDgOqU" },
     { domain: 'tynigone.netlify.app', token: "secret_m2y4P8urzCeGta6DkVc28DpjjyLrAGBvISvlKxDgOqU" },
-    
+    { domain: 'carbonia.netlify.app', token: "secret_Hqvdm2M7ZUlMInWB1c73ojAWI4rkUHRdyAlRBxpz2NB" }
     // add more domain-token mappings as needed
   ];
 // const notion= new Client({ auth:process.env.NOTION_KEY});
